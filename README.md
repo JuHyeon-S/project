@@ -19,6 +19,6 @@
 
 
 
-## 코인 이코노미
+##  이코노미
 
  ![bc_project](https://user-images.githubusercontent.com/46768760/51299554-3afd9c00-1a6c-11e9-9410-717de7cb7d55.png)
